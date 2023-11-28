@@ -1,0 +1,18 @@
+.home{
+  height:calc(100vh - 80px);
+  display:flex;
+  background-color:#83A2FF;
+  justify-content: center;
+  align-items:center;
+  flex-direction:column;
+  gap: 10px;
+}
+h1{
+  letter-spacing:.1em;
+  font-size:3rem;
+  text-shadow: 2px  2px 5px #fff;
+  text-align:center;
+}
+
+
+
